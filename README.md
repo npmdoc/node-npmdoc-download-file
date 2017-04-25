@@ -1,4 +1,7 @@
-# api documentation for  download-file (v0.1.5)  [![npm package](https://img.shields.io/npm/v/npmdoc-download-file.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-download-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-download-file.svg)](https://travis-ci.org/npmdoc/node-npmdoc-download-file)
+# npmdoc-download-file
+
+#### basic api documentation for  download-file (v0.1.5)  [![npm package](https://img.shields.io/npm/v/npmdoc-download-file.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-download-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-download-file.svg)](https://travis-ci.org/npmdoc/node-npmdoc-download-file)
+
 #### Generic file download utility
 
 [![NPM](https://nodei.co/npm/download-file.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/download-file)
@@ -52,7 +55,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "0.1.5"
+    "version": "0.1.5",
+    "bin": {}
 }
 ```
 
